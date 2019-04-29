@@ -1,0 +1,5 @@
+\\VSMART3-PC\Users\VSMART3\Source\Repos\Server Version For majema.se\majema-math\1A\MathViewer\MathViewer\mathviewer-1A\files\kymppi\exercises
+
+live path for 1A (numbers):
+
+https://mitt-i-prick-1a-test.azurewebsites.net/mathviewer-1a/index.html?page=files/toc/toc.html
